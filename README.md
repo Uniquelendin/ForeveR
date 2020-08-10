@@ -1,0 +1,2 @@
+# ForeveR
+Gelişmiş Bot
